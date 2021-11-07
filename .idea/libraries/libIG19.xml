@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="libIG19">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../libIG19.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../libIG19.jar!/doc" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="libIG241">
+    <CLASSES>
+      <root url="jar://D:/Users/ORDI/Downloads/libIG24.jar!/" />
+      <root url="jar://D:/libIG24.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libIG24.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
